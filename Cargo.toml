@@ -1,5 +1,6 @@
 [package]
 name = "timo_space"
+description = "A space to share your sponsorship for the Timo Project."
 version = "0.0.1"
 edition = "2021"
 
