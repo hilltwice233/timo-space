@@ -1,3 +1,9 @@
+# Node dependencies and lockfile.
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
 # Rust output files and lockfile.
 /target
 Cargo.lock
